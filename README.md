@@ -21,3 +21,14 @@ These are the 3 required files: <br>
 <a href="https://grouplens.org/datasets/movielens/25m/">ratings.csv</a> <br>
 The ratings.csv file is too large to upload to Github so you can download it from <a href="https://grouplens.org/datasets/movielens/25m/">here</a>
 
+<b>Step 4: Create a new Folder in Jupyter to house the files by clicking on “New” → “Folder”</b><br>
+<img width="500" alt="Screenshot 2023-05-25 at 1 46 18 PM" src="https://github.com/lokiidokii/Movie-Recommendation-App/assets/39343886/336b52c6-0316-4eab-98fe-b50fa00c0a15">
+
+<b>Step 5: (Optional) The new folder will default to “Untitled Folder”. select the folder, check the box beside it, and click “Rename”</b><br>
+<img width="300" alt="Screenshot 2023-05-25 at 3 09 11 PM" src="https://github.com/lokiidokii/Movie-Recommendation-App/assets/39343886/a26ac131-49dc-490b-a371-37664d86d8c8">
+
+<b>Step 6: (Optional) Enter a new directory name and click “Rename”</b><br>
+<img width="300" alt="Screenshot 2023-05-25 at 3 12 55 PM" src="https://github.com/lokiidokii/Movie-Recommendation-App/assets/39343886/450f329c-31a8-4746-8d9a-f99f70fc1326">
+
+
+
