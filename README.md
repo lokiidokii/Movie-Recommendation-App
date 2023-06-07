@@ -14,4 +14,10 @@ Follow along with the <a href="https://docs.anaconda.com/free/anaconda/install/w
 <b>Step 2: Open Jupyter Notebook via Anaconda Navigator</b><br>
 <img width="500" alt="Screenshot 2023-05-25 at 2 55 22 PM" src="https://github.com/lokiidokii/Movie-Recommendation-App/assets/39343886/8a263285-64ce-4fc1-a961-6be3edfdec22">
 
+<b>Step 3: Download project source files</b><br>
+These are the 3 required files: <br>
+<a href="https://github.com/lokiidokii/Movie-Recommendation-App/blob/main/Movie_Rec_Application.ipynb"> Movie_Rec_Application.ipynb</a>,
+<a href="https://github.com/lokiidokii/Movie-Recommendation-App/blob/main/movies.csv"> movies.csv</a>,
+<a href="https://grouplens.org/datasets/movielens/25m/">ratings.csv</a> <br>
+The ratings.csv file is too large to upload to Github so you can download it from <a href="https://grouplens.org/datasets/movielens/25m/">here</a>
 
