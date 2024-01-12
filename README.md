@@ -2,14 +2,14 @@
 
 <h3>User Guide</h3>
 
-Note: Jupyter Notebook via Anaconda Navigator is required to upload and run the files for this project because of the size of the ratings data file.
+*Note: Jupyter Notebook via Anaconda Navigator is required to upload and run the files for this project because of the size of the ratings data set file*
 
 <b>Step 1: Install Jupyter Notebook</b><br>
-<em>I recommend doing so through Anaconda Navigator. If you already have Anaconda Navigator on your device, skip to Step 3.</em><br>
+<em>I recommend doing so through Anaconda Navigator. If you already have Anaconda on your device, skip to Step 3.</em><br>
 Download the Anaconda installer: https://www.anaconda.com<br> 
 <img width="500" alt="Screenshot 2023-05-25 at 2 36 11 PM" src="https://github.com/lokiidokii/Movie-Recommendation-App/assets/39343886/a8e0cf4e-5022-4799-b95e-386127c5cccf"><br>
 Click the appropriate download for your system under the “Download” button.<br> 
-Follow along with the <a href="https://docs.anaconda.com/free/anaconda/install/windows/">Anaconda Documentation installation guide</a> to complete the installation.<br>
+Follow along with the <a href="https://docs.anaconda.com/free/anaconda/install/windows/">Anaconda Documentation Installation Guide</a> to complete the installation.<br>
 <hr>
 
 <b>Step 2: Open Jupyter Notebook via Anaconda Navigator</b><br>
@@ -21,7 +21,7 @@ These are the 3 required files: <br>
 <a href="https://github.com/lokiidokii/Movie-Recommendation-App/blob/main/Movie_Rec_Application.ipynb"> Movie_Rec_Application.ipynb</a>,
 <a href="https://github.com/lokiidokii/Movie-Recommendation-App/blob/main/movies.csv"> movies.csv</a>,
 <a href="https://grouplens.org/datasets/movielens/25m/">ratings.csv</a> <br>
-The ratings.csv file is too large to upload to Github so you can download it from <a href="https://grouplens.org/datasets/movielens/25m/">here</a>
+The ratings.csv file is too large to upload to Github so you can download the data set from <a href="https://grouplens.org/datasets/movielens/25m/">here</a>
 <hr>
 
 <b>Step 4: Create a new Folder in Jupyter to house the files by clicking on “New” → “Folder”</b><br>
@@ -47,7 +47,7 @@ Select the folder, check the box beside it, and click “Rename”<br>
 
 <b>Step 9: Select and open the downloaded files</b><br>
 <img width="500" alt="Screenshot 2023-05-25 at 3 17 17 PM" src="https://github.com/lokiidokii/Movie-Recommendation-App/assets/39343886/57b90829-0ec6-469a-87ce-0762ed3ecf07"><br>
-You may get a Large file size warning because of the ratings.csv file. Just click “Ok”<br>
+You may get a 'Large file size warning' because of the ratings.csv file. Just click “Ok”<br>
 <img width="500" alt="Screenshot 2023-05-25 at 3 18 11 PM" src="https://github.com/lokiidokii/Movie-Recommendation-App/assets/39343886/12144c90-0fc7-4eea-89f4-14bb39ac5a72">
 <hr>
 
